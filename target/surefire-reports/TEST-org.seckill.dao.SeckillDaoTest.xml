@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="3" failures="0" name="org.seckill.dao.SeckillDaoTest" time="1.506" errors="0" skipped="0">
+<testsuite tests="3" failures="0" name="org.seckill.dao.SeckillDaoTest" time="1.47" errors="0" skipped="0">
   <properties>
     <property name="idea.version" value="2021.3.1"/>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
@@ -65,7 +65,7 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="org.seckill.dao.SeckillDaoTest" name="testQueryById" time="1.412"/>
+  <testcase classname="org.seckill.dao.SeckillDaoTest" name="testQueryById" time="1.392"/>
   <testcase classname="org.seckill.dao.SeckillDaoTest" name="testQueryAll" time="0.031"/>
-  <testcase classname="org.seckill.dao.SeckillDaoTest" name="testReduceNumber" time="0.063"/>
+  <testcase classname="org.seckill.dao.SeckillDaoTest" name="testReduceNumber" time="0.047"/>
 </testsuite>
